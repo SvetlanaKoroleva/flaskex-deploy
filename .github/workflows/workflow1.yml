@@ -25,5 +25,3 @@ jobs:
           
       - name: Check kubectl
         run: kubectl get pods -A
-          
-          
